@@ -1,0 +1,13 @@
+{
+  "name": "/wp-themes",
+  "authors": [
+    {
+      "name": "Deguto",
+      "email": "info@deguto.de"
+    }
+  ],
+  "type"    : "wordpress-theme", 
+  "require" : { 
+    "composer/installers": "~1.0"
+  }
+}
